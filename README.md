@@ -13,25 +13,27 @@ Dataset
 The Iris dataset is a well-known dataset in machine learning and statistics, available in the UCI Machine Learning Repository.
 Features:
 
-Sepal Length (cm)
-Sepal Width (cm)
-Petal Length (cm)
-Petal Width (cm)
+a)Sepal Length (cm)
+b)Sepal Width (cm)
+c)Petal Length (cm)
+d)Petal Width (cm)
+
+
 **Target:**
 
 
-Setosa
+a)Setosa
 
-Versicolor
+b)Versicolor
 
 
-Virginica
+c)Virginica
 
 **Tech stack**
 
 Programming Language: 
 
-Python
+<Python>
 
 Libraries:
 
