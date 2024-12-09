@@ -32,7 +32,7 @@ c)Virginica
 
 Programming Language: 
 
-<Python>
+Python
 
 Libraries:
 
