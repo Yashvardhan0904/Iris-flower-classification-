@@ -3,7 +3,6 @@
 **Iris Flower Classification**
 
 
-Overview
 This project focuses on classifying the species of Iris flowers—Setosa, Versicolor, and Virginica—using machine learning techniques.
 The dataset contains features like sepal length, sepal width, petal length, and petal width to predict the flower's species.
 
